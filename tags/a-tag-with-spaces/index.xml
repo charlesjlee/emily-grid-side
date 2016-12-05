@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid Side</title>
-    <link>https://www.example.com/tags/a-tag-with-spaces/index.xml</link>
+    <link>https://charlesjlee.github.io/emily-grid-side/tags/a-tag-with-spaces/index.xml</link>
     <description>Recent content on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Emily Lee</copyright>
-    <atom:link href="https://www.example.com/tags/a-tag-with-spaces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charlesjlee.github.io/emily-grid-side/tags/a-tag-with-spaces/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Another Car</title>
-      <link>https://www.example.com/project/anothercar/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anothercar/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anothercar/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -22,10 +22,10 @@
     
     <item>
       <title>Another Cup</title>
-      <link>https://www.example.com/project/anothercup/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anothercup/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anothercup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Car</title>
-      <link>https://www.example.com/project/car/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/car/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/car/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>Cup</title>
-      <link>https://www.example.com/project/cup/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/cup/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/cup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -55,10 +55,10 @@
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/project/anotherdrone/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherdrone/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anotherdrone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -66,10 +66,10 @@
     
     <item>
       <title>Drone</title>
-      <link>https://www.example.com/project/drone/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/drone/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/drone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -77,10 +77,10 @@
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/project/anotherfood/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherfood/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anotherfood/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -88,10 +88,10 @@
     
     <item>
       <title>Food</title>
-      <link>https://www.example.com/project/food/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/food/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/food/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -99,10 +99,10 @@
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/anotherjars/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherjars/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anotherjars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -110,10 +110,10 @@
     
     <item>
       <title>Jars</title>
-      <link>https://www.example.com/project/jars/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/jars/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/jars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -121,10 +121,10 @@
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/project/anotherphone/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/anotherphone/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/anotherphone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -132,10 +132,10 @@
     
     <item>
       <title>Phone</title>
-      <link>https://www.example.com/project/phone/</link>
+      <link>https://charlesjlee.github.io/emily-grid-side/project/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/project/phone/</guid>
+      <guid>https://charlesjlee.github.io/emily-grid-side/project/phone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
